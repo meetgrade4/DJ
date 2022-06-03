@@ -1,0 +1,34 @@
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+h3{
+    color: orangered;
+}
+
+img{
+    border-radius: 50%;
+}
+
+#volume, #speed{
+    font-size: 20px;
+}
+
+#play{
+    font-size: 30px;
+    margin-right: 75px;
+}
+
+#stop{
+    font-size: 30px;
+    margin-left: 75px;
+}
+
+canvas{
+    border: 3px solid white;
+    border-radius: 20%;
+}
